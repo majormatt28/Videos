@@ -2,6 +2,7 @@ import React from 'react';
 import SearchBar from './SearchBar';
 import youtube from '../apis/youtube';
 
+const KEY = "YOUR_KEY";
 
 class App extends React.Component {
 onTermSubmit = (term) => {
@@ -9,8 +10,8 @@ onTermSubmit = (term) => {
         params: {
             q: term,
             part: "snippet",
-            type: 'video',
             maxResults: 5,
+            key: KEY
         }
     });
 };

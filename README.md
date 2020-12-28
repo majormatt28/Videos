@@ -13,3 +13,5 @@ From there where you find the Videos folder you want to then use the command npm
 
 App should show up as a local host 3000 in your browser and voila!
 
+# Author
+Mathew Newton

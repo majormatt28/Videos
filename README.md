@@ -1,5 +1,5 @@
-# Video player 
-Developing a video player utilizng youtube api.
+# Youtube Clone 
+Developed a youtube clone utilizing youtube api.
 
 # Summary
 For this project as you may have guessed I created an app that utilizes youtube api and make it a fully functioning youtube playback app. Developing this app has been an exciting and interesting feat and I am excited to share it with others to use. If anything breaks however please let me know and I will correct it. ^_^
